@@ -3,7 +3,7 @@
 ## Links
 
 GitHub Repository: https://github.com/CatCorbin/note-taker
-Heroku Deployed Application:
+Heroku Deployed Application: https://catcorbin-notetaker-85973421238a.herokuapp.com/
 
 ## Description
 
