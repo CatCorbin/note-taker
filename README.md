@@ -1,5 +1,7 @@
 # Note Taker
 
+![](/notetaker.png)
+
 ## Links
 
 GitHub Repository: https://github.com/CatCorbin/note-taker
@@ -20,7 +22,7 @@ This program was designed to take and store notes. It is a full stack applicatio
 
 ## Installation
 
-N/A
+No installation required. Use is easy via the deployed site.
 
 ## Usage
 
@@ -36,7 +38,7 @@ None
 
 ## Tests
 
-
+No test required.
 
 ## Questions
 <ul>
